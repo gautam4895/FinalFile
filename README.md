@@ -1,3 +1,3 @@
 # FinalFile
 
-The file is to give info for the people rekated to php.
+This file is to give information for the people related to PHP.
